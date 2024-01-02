@@ -4,13 +4,13 @@ import { UsersList } from "./components/UsersList";
 
 function App() {
   const {
-    users,
+    
     color,
     handleColor,
     sortByCountry,
     handleSortByCountry,
     sortedUsers,
-    newUsers,
+    
     handleDelete,
     handleReset,
     filterByCountry,
