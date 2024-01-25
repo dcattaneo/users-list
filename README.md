@@ -1,21 +1,20 @@
--[V] Fetch 100 rows of data using the API.
+Fetching 100 rows of data consuming an API.
 
--[V] Display the data in a table format.
+Displaying the data in a table format.
 
--[V] Provide the option to color rows.
+Providing an option to color rows.
 
--[V] Allow the data to be sorted by country.
+Adding functionality to allow the user to sort the data by country.
 
--[V] Enable the ability to delete a row.
+Adding functionality to delete users.
 
--[V] Implement a feature that allows the user to restore the initial state, meaning that all deleted rows will be recovered.      
+Implementing a feature to allow the user to restore the initial state.    
 
--[V] Handle any potential errors that may occur.
+Handling  errors 
 
--[V] Implement a feature that allows the user to filter the data by country. 
+Allowing the user to filter the data by country. 
 
--[V] Avoid sorting users when changing the filter by country (useMemo, useCallback).
-
+Avoiding the sorting users functionality when changing the filter by country (useMemo, useCallback).
 
 
 
